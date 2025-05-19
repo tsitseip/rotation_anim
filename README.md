@@ -23,4 +23,3 @@ The application allows to choose different figures and configure some settings.
 - You can change the proporsion of speed of rotating of the figure by changing the slider labeled **X Speed**, **Y Speed**, **Z Speed**.
 - You can change the distance to the figure by using the mouse’s middle button — drag up to zoom in and drag down to zoom out — or by adjusting the slider labeled **Zoom**.
 - You can show FPS on the screen by pressing on checkbox labeled **Show FPS**.
-# rotation_anim
